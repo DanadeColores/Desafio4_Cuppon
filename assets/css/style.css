@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.logodana1{
+    height: 7rem;
+    color: rgb(139, 44, 227);
+}
+
+.card h5{
+    font-weight: 500;
+}
+
+.btn-1{
+    background-color: rgb(255, 153, 255);
+    color: black;
+    font-weight: 500;
+    display: block;
+    }
+    
+.btn-2{
+    background-color: rgb(255, 51, 153);
+    color: black;
+    font-weight: 500;
+    display: block;
+    }
+    
+.btn-3{
+    background-color: rgb(222, 83, 255);
+    color: black;
+    font-weight: 500;
+    display: block;
+    }
+    
+.btn-4{
+    background-color: rgb(255, 71, 71);
+    color: black;
+    font-weight: 500;
+    display: block;
+    }
+    
+.btn-5{
+    background-color: rgb(255, 0, 102);
+    color: black;
+    font-weight: 500;
+    display: block;
+    }
+
+.btn-6{
+background-color: rgb(236, 169, 60);
+    color: black;
+    font-weight: 500;
+    display: block;
+    }
+
+.logofinal{
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    font-family: 'Roboto', sans-serif;
+    text-align: center
+}
+
+footer h3{
+    font-size: 1rem;
+    text-align: center;
+}
+
+.logofinal div img{
+    height: 6rem;
+    text-align: center
+}
